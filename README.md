@@ -7,7 +7,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-       <a href="#about-the-project">About The Project</a>
+       <a href="#about">About</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -21,7 +21,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About
 
 This is project Rock, Paper, Scissors, Lizard, Spock (RPSLS) is a variant of the zero sum hand game Rock, Paper, Scissors.
 
